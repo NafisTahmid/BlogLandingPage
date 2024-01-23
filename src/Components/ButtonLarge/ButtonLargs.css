@@ -1,0 +1,12 @@
+.btn-load_more {
+    width: 300px;
+    background-color: #292929;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.btn-load_more:hover {
+    background-color: #d7cfb8;;
+    color: black;
+}

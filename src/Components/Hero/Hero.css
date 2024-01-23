@@ -1,0 +1,19 @@
+.bg-brand {
+    background-color: #fafafa;
+}
+
+.header-text:hover {
+    text-decoration: underline;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-brand_light {
+    color: #71728a;
+}
+
+.font-sm {
+    font-size: 12px;
+}

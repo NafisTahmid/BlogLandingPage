@@ -1,0 +1,13 @@
+.btn-blue-print {
+    width: 300px;
+    background-color: #292929;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+
+.btn-blue-print:hover {
+    background-color: #d7cfb8;;
+    color: black;
+}

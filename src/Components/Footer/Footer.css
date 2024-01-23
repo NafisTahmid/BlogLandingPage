@@ -1,0 +1,10 @@
+ul li {
+    list-style: none;
+    font-size: 14px;
+}
+
+ul li:hover {
+    font-weight: 700;
+    color: black;
+    cursor: pointer;
+}

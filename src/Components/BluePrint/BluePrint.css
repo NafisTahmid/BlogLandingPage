@@ -1,0 +1,29 @@
+.bg-image {
+    background-image: url('../../images/bg.jpg');
+    height: 720px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.font-sm {
+    font-size: 12px;
+}
+
+.input-box:focus {
+    border: none;
+    outline: none;
+}
+
+.btn-form {
+    width: 300px;
+    background-color: #292929;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+
+.btn-form:hover {
+    background-color: #d7cfb8;;
+    color: black;
+}
